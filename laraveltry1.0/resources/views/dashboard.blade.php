@@ -21,29 +21,6 @@
                 </a>
             </div>
 
-            <!-- FNSS Zırhlı Araç Resimleri -->
-            <div class="mt-10">
-                <div class="bg-white dark:bg-gray-700 p-4 rounded-lg shadow">
-                    <h3 class="text-2xl font-semibold text-gray-800 dark:text-white mb-4">FNSS Tarafından Üretilen Zırhlı Araçlar</h3>
-                    <div class="flex overflow-x-scroll space-x-4">
-                        <div class="flex-none w-72 h-56"> <!-- Adjusted width and height -->
-                            <img src="{{ asset('images/zırhlı_arac.webp') }}" alt="Zırhlı Araç 1" class="w-full h-full object-cover rounded-lg">
-                        </div>
-                        <div class="flex-none w-72 h-56"> <!-- Adjusted width and height -->
-                            <img src="{{ asset('images/zırhlı_arac2.webp') }}" alt="Zırhlı Araç 2" class="w-full h-full object-cover rounded-lg">
-                        </div>
-                        <div class="flex-none w-72 h-56"> <!-- Adjusted width and height -->
-                            <img src="{{ asset('images/zırhlı_arac3.png') }}" alt="Zırhlı Araç 3" class="w-full h-full object-cover rounded-lg">
-                        </div>
-                        <div class="flex-none w-72 h-56"> <!-- Adjusted width and height -->
-                            <img src="{{ asset('images/zırhlı_arac4.webp') }}" alt="Zırhlı Araç 4" class="w-full h-full object-cover rounded-lg">
-                        </div>
-                        <div class="flex-none w-72 h-56"> <!-- Adjusted width and height -->
-                            <img src="{{ asset('images/zırhlı_arac5.webp') }}" alt="Zırhlı Araç 5" class="w-full h-full object-cover rounded-lg">
-                        </div>
-                    </div>
-                </div>
-            </div>
 
 
             <!-- Diğer Başlıklar ve İçerikleri -->
